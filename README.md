@@ -3,6 +3,9 @@
 <img align="right" width="400" height="700" alt="Yato" src="https://w0.peakpx.com/wallpaper/685/150/HD-wallpaper-yato-noragami-thumbnail.jpg"/>
 
 <h2> / about me /</h2>
+
+  Student at the National University of General Sarmiento (Buenos Aires, Argentina).
+  Completing the University Technician in Computer Science.
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
